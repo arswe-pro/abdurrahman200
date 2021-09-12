@@ -12,7 +12,7 @@
 :hearts: &emsp; I'm Abdur rahman, a Mern Stack Web Application Developer. <br/>
 :computer: &emsp; I Spend most of time coding outstanding projects. <br/>
 🥅 &emsp; I’m interested in Full Stack Development... <br/>
-🌱 I’m currently learning MERN Stack Development...<br/>
+🌱 &emsp; I’m currently learning MERN Stack Development...<br/>
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 :e-mail: &emsp;How to reach me: abdur.rahman200301@gmail.com<br/>
